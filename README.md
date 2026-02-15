@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./assets/computer.gif" width="7%"> Welcome to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">schl3sch's</a> github page <img src="./assets/error.gif" width="7%"></h1>
+<h1 align="center"> <img src="./assets/dance.gif" width="9%"> Welcome to <a href="" target="_blank">schl3sch's</a> github page <img src="./assets/dance.gif" width="9%"></h1>
 
 <div align="center">
 
