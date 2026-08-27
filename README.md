@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./assets/dance.gif" width="9%"> Welcome to <a href="" target="_blank">schl3sch's</a> github page <img src="./assets/dance.gif" width="9%"></h1>
+<h1 align="center"> <img src="./assets/dance.gif" width="9%"> Welcome to <a href="" target="_blank">k3rnel-panic's</a> github page <img src="./assets/dance.gif" width="9%"></h1>
 
 <div align="center">
 
